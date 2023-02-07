@@ -9,7 +9,9 @@ The efforts presented here are work in progress and are not to be considered fin
 We provide the following resources:
 
 * Metadata schema ([code](https://github.com/Metadata4Wearables/Metadata4Wearables-Schema))
-* Web-based validator ([code](https://github.com/Metadata4Wearables/Metadata4Wearables-Validator), [live site](https://validator.metadata4wearables.org/))
+* Web-based validator ([code](https://github.com/Metadata4Wearables/Metadata4Wearables-Validator), [live site](https://vigorous-mccarthy-c8a76a.netlify.app/), [future live site](https://validator.metadata4wearables.org/))
+
+
 
 ## Versions
 
