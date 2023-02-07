@@ -4,6 +4,16 @@ This organization houses the code and metadata for the **Metadata4Wearables** pr
 
 The efforts presented here are work in progress and are not to be considered final. We invite contributions.
 
+## Resources
+
+We provide the following resources:
+
+* Metadata schema ([code](https://github.com/Metadata4Wearables/Metadata4Wearables-Schema))
+* Web-based validator ([code](https://github.com/Metadata4Wearables/Metadata4Wearables-Validator), [live site](https://validator.metadata4wearables.org/))
+
+## Versions
+
+
 ## Original project team members
 
 * Grégory **Hammad**, University of Liège [[0000-0003-1083-3869]](https://orcid.org/0000-0003-1083-3869)
