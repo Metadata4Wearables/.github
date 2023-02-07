@@ -18,14 +18,14 @@ We provide the following resources:
 
 ## Original project team members
 
-* Grégory **Hammad**, University of Liège [[0000-0003-1083-3869]](https://orcid.org/0000-0003-1083-3869)
-* Christine **Blume**, University of Basel [[0000-0003-2328-9612]](https://orcid.org/0000-0003-2328-9612)
-* Christina **Schmidt**, University of Liège [[0000-0002-1114-5112]](https://orcid.org/0000-0002-1114-5112)
-* Debra J. **Skene**, University of Surrey [[0000-0001-8202-6180]](https://orcid.org/0000-0001-8202-6180)
-* Katharina **Wulff**, Umea University [[0000-0003-2480-3329]](https://orcid.org/0000-0003-2480-3329)
-* Nayantara **Santhi**, Northumbria University [[0000-0003-4568-1447]](https://orcid.org/0000-0003-4568-1447)
-* Mirjam **Münch**, University of Basel [[0000-0003-2087-9916]](https://orcid.org/0000-0003-2087-9916)
-* Manuel **Spitschan**, Technical University of Munich [[0000-0002-8572-9268]](https://orcid.org/0000-0002-8572-9268)
+* Grégory **Hammad**, University of Liège [[0000-0003-1083-3869](https://orcid.org/0000-0003-1083-3869)]
+* Christine **Blume**, University of Basel [[0000-0003-2328-9612](https://orcid.org/0000-0003-2328-9612)]
+* Christina **Schmidt**, University of Liège [[0000-0002-1114-5112](https://orcid.org/0000-0002-1114-5112)]
+* Debra J. **Skene**, University of Surrey [[0000-0001-8202-6180](https://orcid.org/0000-0001-8202-6180)]
+* Katharina **Wulff**, Umea University [[0000-0003-2480-3329](https://orcid.org/0000-0003-2480-3329)]
+* Nayantara **Santhi**, Northumbria University [[0000-0003-4568-1447](https://orcid.org/0000-0003-4568-1447)]
+* Mirjam **Münch**, University of Basel [[0000-0003-2087-9916](https://orcid.org/0000-0003-2087-9916)]
+* Manuel **Spitschan**, Technical University of Munich [[0000-0002-8572-9268](https://orcid.org/0000-0002-8572-9268)]
 
 ## Contact
 
